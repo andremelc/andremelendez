@@ -31,3 +31,15 @@ El portafolio está desarrollado con las siguientes tecnologías:
 ├── next.config.ts      # Configuración de Next.js
 ├── sanity.config.ts    # Configuración del Studio de Sanity
 └── tailwind.config.ts  # Configuración de estilos y temas
+```
+
+# Clonar el repositorio
+git clone https://github.com/tu-usuario/tu-repo.git
+
+# Instalar dependencias
+npm install
+
+# Ejecutar en desarrollo
+npm run dev
+
+
